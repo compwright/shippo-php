@@ -1,0 +1,4 @@
+GET /orders?page=2&results=10&shop_app=Shippo HTTP/1.1
+Host: api.goshippo.com:443
+Authorization: ShippoToken shippo_test_foo
+

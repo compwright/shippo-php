@@ -1,0 +1,4 @@
+GET /orders/4f2bc588e4e5446cb3f9fdb7cd5e190b HTTP/1.1
+Host: api.goshippo.com:443
+Authorization: ShippoToken shippo_test_foo
+
