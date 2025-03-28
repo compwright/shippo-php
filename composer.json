@@ -1,7 +1,10 @@
 {
     "name": "compwright/shippo-php",
     "description": "Shippo v2 API Client for PHP",
-    "keywords": ["psr-7", "guzzle"],
+    "keywords": [
+        "psr-7",
+        "guzzle"
+    ],
     "homepage": "https://github.com/compwright/shippo-php",
     "type": "library",
     "license": "MIT",
@@ -23,12 +26,12 @@
             "email": "jonathon@compwright.com"
         }
     ],
-    "autoload" : {
+    "autoload": {
         "psr-4": {
             "Compwright\\ShippoPhp\\": "src/"
         }
     },
-    "autoload-dev" : {
+    "autoload-dev": {
         "psr-4": {
             "Compwright\\ShippoPhp\\": "tests/"
         }
